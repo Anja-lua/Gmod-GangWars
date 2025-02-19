@@ -29,5 +29,5 @@ Player above-head text
 Billboard pictures
 
 
-Contact
+Contact:
 https://steamcommunity.com/id/fxla/
