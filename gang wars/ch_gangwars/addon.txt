@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"GangWars"
+	"version"	"1.5.0"
+	"up_date"	"Feb, 2025"
+	"author_name"	"Crap-Head"
+        "secondary_author_name"	"Crap-Head"
+	"author_url"	"https://www.gmodstore.com/users/crap-head"
+        "secondary_author_url"	"https://steamcommunity.com/id/fxla/"
+	"info"		"Gang Wars"
+}
